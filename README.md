@@ -2,4 +2,5 @@
 
 LIST OF EXPERIMENTS
 
-1.Time Series Analsyis
+1.Time Series Analysis
+
