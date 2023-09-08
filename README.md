@@ -6,3 +6,5 @@ LIST OF EXPERIMENTS
 
 2.Z-Test
 
+3.T-Test
+
